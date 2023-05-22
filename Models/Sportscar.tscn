@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://ootdqvujdjf7"]
+
+[ext_resource type="PackedScene" uid="uid://3pmvtyu1u1pr" path="res://uploads_files_3776083_Sport+car+-+gta+v.glb" id="1_afmr0"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="uploads_files_3776083_Sport+car+-+gta+v" parent="." instance=ExtResource("1_afmr0")]
